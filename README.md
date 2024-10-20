@@ -2,18 +2,20 @@
 
 `[持续更新中]` 适合带到三次元世界的可爱的插画们
 
+| 封面 |
+| --- |
+| ![img](cover.svg) |
+| [查看封面svg原图](cover.svg) \| [查看背景svg原图](icons.svg) |
+
 ⚠️ svg 的预览字体可能和实际字体不一致，请以 png 图片为准
 
 ---
 
-## 可爱的图标们! 
-
-| svg 预览 |
-| --- |
-| ![img](icons.svg) |
-| [查看svg原图](icons.svg) |
-
 ## Estradiol 杯! `Release/可生产`
+
+| 实拍图 (Estradiol 杯 > 右右版) |
+| --- |
+| <img alt="img" src="estradiol-cup/index.png" style="max-width: 500px" /> |
 
 [点击查看](estradiol-cup/README.md)
 
@@ -33,26 +35,11 @@
 
 ## 编辑和贡献小贴士 / Edit & Contribute Tips
 
-- 请安装[思源黑体](https://github.com/adobe-fonts/source-han-sans/releases/download/2.004R/SourceHanSans.ttc.zip), [霞鹜文楷](https://github.com/lxgw/LxgwWenKai/releases/download/v1.501/lxgw-wenkai-v1.501.zip)和[更纱黑体](https://github.com/be5invis/Sarasa-Gothic)
-- 推荐 svg 编辑器: [Inkscape](https://inkscape.org/)
-- 如果发现 Inkscape 导出的 png 是黑白色的... 请点击导出按钮右边的小齿轮看看设置
-- 提交 PR 前，请确保 png 文件都是最新的 (记得导出)
-- 如果编辑器找不到 `思源黑体` ，请将字体改为 `思源黑体 CN`，反之亦然。
+[点击查看](CONTRIBUTING.md)
 
 ## *钦定*经销商 / *Certified* Distributor
 
-| 墨盒实验室 |
-| --- |
-| ![墨盒实验室](seller/photo_2024-06-30_16-44-32.jpg) |
-| 淘宝: 墨守的小卖部 |
-| 拼多多: 软兔守守的冬日暖意小屋 |
-
-| 饼干实验室 |
-| --- |
-| ![饼干实验室](seller/IMG_20241010_174000.jpg) |
-| Telegram 频道: https://t.me/cookielib |
-
-你也在卖嘛？如果想让大家知道的话，欢迎开 issue 或提交 PR
+[点击查看](seller/README.md)
 
 ## 许可证 / License
 
