@@ -13,15 +13,21 @@
 
 ## Estradiol 杯! `Release/可生产`
 
-| 实拍图 (Estradiol 杯 > 右右版) |
+| 实拍图 (Estradiol 杯 > [右右版](estradiol-cup/README.md#右右版)) |
 | --- |
 | <img alt="img" src="estradiol-cup/index.png" style="max-width: 500px" /> |
 
 [点击查看](estradiol-cup/README.md)
 
-## Estradiol 衬衫! `Beta/测试中`
+## Estradiol 衬衫! `Release/可生产`
 
-> 首次生产中...
+| 实拍图 (Estradiol 衬衫 > [白色衬衫](estradiol-shirt/README.md#白色衬衫)) |
+| --- |
+| <img alt="img" src="estradiol-shirt/index-white.png" style="max-width: 500px" /> |
+
+| 实拍图 (Estradiol 衬衫 > [黑色衬衫](estradiol-shirt/README.md#黑色衬衫)) |
+| --- |
+| <img alt="img" src="estradiol-shirt/index-black.png" style="max-width: 500px" /> |
 
 [点击查看](estradiol-shirt/README.md)
 
